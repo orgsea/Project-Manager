@@ -1,0 +1,9 @@
+CSStyle==0.1
+CherryPy==3.2.2
+Jinja2==2.6
+distribute==0.6.24
+jsmin==2.0.2
+psycopg2==2.4.4
+pymongo3==1.9b1
+wsgiref==0.1.2
+autopep8==0.5.2
